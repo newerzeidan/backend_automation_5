@@ -91,9 +91,12 @@ public class AddPetToStoreWithLombok {
         int actualTagId0WithJayWay = JsonPath.read(response.asString(), "tags[0].id");
         logger.info("My pet tag Id with JayWay is " + actualTagId0WithJayWay);
 
+        int actualCategoryIdWithJayWay = JsonPath.read(response.asString(), "category.id");
+        logger.info("Category id from the response is: " + actualCategoryIdWithJayWay);
+
         // getting the pet id from the request body
-        //  int expectedPetId = addAPet.getId();
-        int expectedPetId = 3;
+        int expectedPetId = addAPet.getId();
+        //int expectedPetId = 3;
         int expectedTagsId0 = tags0.getId();
 
         // We are logging the information
@@ -111,6 +114,12 @@ public class AddPetToStoreWithLombok {
                 actualPetIdWithJayWay,
                 // expected value
                 is(expectedPetId)
+        );
+        logger.debug("The actual category id should be " + category.getId() + " but we found " + actualCategoryIdWithJayWay);
+        assertThat(
+                "I am validating the category id",
+                actualCategoryIdWithJayWay,
+                is(category.getId())
         );
 
 

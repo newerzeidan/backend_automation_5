@@ -16,7 +16,7 @@ import org.hamcrest.Matchers;
 
 import static org.hamcrest.core.IsEqual.equalTo;
 
-public class GoRest {
+public class GoRestWithoutLombok {
 
     Response response;
     /**

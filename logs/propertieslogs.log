@@ -1,0 +1,36 @@
+[TRACE] 2023-03-11 13:07:31.680 [main] Log4jAppender - Logging with trace
+[DEBUG] 2023-03-11 13:07:31.682 [main] Log4jAppender - Logging with debug
+[INFO ] 2023-03-11 13:07:31.682 [main] Log4jAppender - Logging with info
+[WARN ] 2023-03-11 13:07:31.682 [main] Log4jAppender - Logging with warn
+[ERROR] 2023-03-11 13:07:31.682 [main] Log4jAppender - Logging with error
+[FATAL] 2023-03-11 13:07:31.682 [main] Log4jAppender - Logging with fatal
+[TRACE] 2023-03-11 13:21:41.930 [main] Log4jAppender - Logging with trace
+[DEBUG] 2023-03-11 13:21:41.932 [main] Log4jAppender - Logging with debug
+[INFO ] 2023-03-11 13:21:41.932 [main] Log4jAppender - Logging with info
+[WARN ] 2023-03-11 13:21:41.932 [main] Log4jAppender - Logging with warn
+[ERROR] 2023-03-11 13:21:41.932 [main] Log4jAppender - Logging with error
+[FATAL] 2023-03-11 13:21:41.932 [main] Log4jAppender - Logging with fatal
+[TRACE] 2023-03-11 13:26:09.971 [main] Log4jAppender - Logging with trace
+[DEBUG] 2023-03-11 13:26:09.973 [main] Log4jAppender - Logging with debug
+[INFO ] 2023-03-11 13:26:09.973 [main] Log4jAppender - Logging with info
+[WARN ] 2023-03-11 13:26:09.973 [main] Log4jAppender - Logging with warn
+[ERROR] 2023-03-11 13:26:09.973 [main] Log4jAppender - Logging with error
+[FATAL] 2023-03-11 13:26:09.973 [main] Log4jAppender - Logging with fatal
+[TRACE] 2023-03-11 13:35:24.626 [main] Log4jAppender - Logging with trace
+[DEBUG] 2023-03-11 13:35:24.628 [main] Log4jAppender - Logging with debug
+[INFO ] 2023-03-11 13:35:24.628 [main] Log4jAppender - Logging with info
+[WARN ] 2023-03-11 13:35:24.628 [main] Log4jAppender - Logging with warn
+[ERROR] 2023-03-11 13:35:24.629 [main] Log4jAppender - Logging with error
+[FATAL] 2023-03-11 13:35:24.629 [main] Log4jAppender - Logging with fatal
+[TRACE] 2023-03-11 13:35:47.419 [main] Log4jAppender - Logging with trace
+[DEBUG] 2023-03-11 13:35:47.422 [main] Log4jAppender - Logging with debug
+[INFO ] 2023-03-11 13:35:47.422 [main] Log4jAppender - Logging with info
+[WARN ] 2023-03-11 13:35:47.422 [main] Log4jAppender - Logging with warn
+[ERROR] 2023-03-11 13:35:47.422 [main] Log4jAppender - Logging with error
+[FATAL] 2023-03-11 13:35:47.422 [main] Log4jAppender - Logging with fatal
+[TRACE] 2023-03-11 14:08:44.110 [main] Log4jAppender - Logging with trace
+[DEBUG] 2023-03-11 14:08:44.112 [main] Log4jAppender - Logging with debug
+[INFO ] 2023-03-11 14:08:44.112 [main] Log4jAppender - Logging with info
+[WARN ] 2023-03-11 14:08:44.112 [main] Log4jAppender - Logging with warn
+[ERROR] 2023-03-11 14:08:44.112 [main] Log4jAppender - Logging with error
+[FATAL] 2023-03-11 14:08:44.112 [main] Log4jAppender - Logging with fatal
